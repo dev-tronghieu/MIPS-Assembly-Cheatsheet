@@ -1,10 +1,12 @@
-# Before we start
+# MIPS Assembly cheat sheet
 
-## Prerequisites
+## Before we start
+
+### Prerequisites
 
 [Install Mars](https://courses.missouristate.edu/kenvollmar/mars/download.htm)
 
-## Learning materials
+### Learning materials
 
 [Tutorial](https://www.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
 
